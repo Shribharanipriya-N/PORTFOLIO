@@ -18,7 +18,7 @@ const Projects = () => {
           title: "Portfolio Website",
           description: "My portfolio  that showcases my  skills ",
           href1: "https://github.com/Shribharanipriya-N/PORTFOLIO ",
-          href2: "https://shribharanipriya_n.netlify.app/",
+          href2: "https://shribharanipriya-n.netlify.app/",
         },
       ];
       
